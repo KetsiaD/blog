@@ -4,7 +4,7 @@ title: Introduction Post
 author: Ketsia Dusenge
 
 ---
-## Chellenges working with setting up jekyll
+## Challenges working with setting up jekyll
 
 Creating my first blog has been challenging so far especially
 with the installations of all the different libraries and softwares
