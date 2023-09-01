@@ -5,4 +5,4 @@ permalink: /Reflections/
 
 ---
 
-My day has been stressfull and great so far
+My day has been stressfull and great so far ....
