@@ -5,3 +5,19 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.page-content{
+  background-image: url("cofee.jpeg");
+}
+
+
+.post{
+  color: rgb(251, 245, 235);
+  font-weight: 800;
+  font-family: 'Oswald', sans-serif;
+}
+
+footer{
+  background-color: burlywood;
+}
+
