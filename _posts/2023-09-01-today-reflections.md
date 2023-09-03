@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Reflections
+title: Reflections for today
 author: Ketsia Dusenge
+
 ---
 ![Personal Image](thumb.webp)
 
