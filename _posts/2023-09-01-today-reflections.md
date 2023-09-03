@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Reflections for today
+title: Today's Reflections
 author: Ketsia Dusenge
 
 ---
-![Personal Image](thumb.webp)
+
 
 This Assignment has been challenging especially when it came to understanding all the different pieces in the files and how they all interconnect to bring about the visual changes we see. 
 
