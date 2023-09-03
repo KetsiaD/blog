@@ -13,8 +13,8 @@ Besides all the challenges ans confusions at some point. I was able to figure ou
 Some of the helpful tutorial are Linked Below. 
 
 
-[![Blog Layout Guide](layout.jpeg)](https://www.w3schools.com/howto/howto_css_blog_layout.asp)
+[![Blog Layout Guide](_posts/layout.jpeg)](https://www.w3schools.com/howto/howto_css_blog_layout.asp)
 Caption: "The Art of Blogging" by mkhmarketing is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
 
-[![Setting Up Jekyll](blogpic.jpeg)](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+[![Setting Up Jekyll](_posts/blogpic.jpeg)](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 Caption: "Business Person Typing" by InstructionalSolutions is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse..
