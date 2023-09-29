@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Entity Relationship Diagram
+author: Ketsia Dusenge
 ---
 
 [![ERD]({{"/assets/image/erd.png" | relative_url}})
